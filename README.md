@@ -1,1 +1,1 @@
-# Analyse-des-donn-es-m-dicales-des-patients-pour-la-pr-diction-des-risques-de-sant-
+# Analyse des données médicales des patients pour la prédiction des risques de santé
